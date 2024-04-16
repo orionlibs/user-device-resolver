@@ -3,8 +3,8 @@
     <groupId>io.github.orionlibs</groupId>
     <artifactId>user-device-resolver</artifactId>
     <version>1.0.2</version>
-    <name>name</name>
-    <description>Utility for web-based applications that resolves a user's device using a servlet request sent to the server</description>
+    <name>Orion User Device Resolver</name>
+    <description>Utility for web-based applications that resolves a user's device using a servlet request sent to the server.</description>
     <url>https://github.com/orionlibs/user-device-resolver</url>
     
     
